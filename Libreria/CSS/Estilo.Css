@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    background-color: black;
+}
+#Parrafo{
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-size: 12;
+    font-weight: bold;
+}
